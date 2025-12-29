@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model Weights (Do not push heavy weights)
+model_weights/
+
+# (Optional) Ignore dataset if it's too large for GitHub (>100MB)
+dataset/
